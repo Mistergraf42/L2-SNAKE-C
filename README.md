@@ -1,47 +1,33 @@
-           /^\/^\
-         _|__|  O|
-\/     /~     \_/ \
- \____|__________/  \
-        \_______      \   SNAKE
-                `\     \   By             \
-                  |     | Arthur et Tolga  \
-                 /      /                    \
-                /     /     INSTRUCTION       \\
-              /      /                         \ \
-             /     /                            \  \
-           /     /             _----_            \   \
-          /     /           _-~      ~-_         |   |
-         (      (        _-~    _--_    ~-_     _/   |
-          \      ~-____-~    _-~    ~-_    ~-_-~    /
-            ~-_           _-~          ~-_       _-~
-               ~--______-~                ~-___-~
+## Comment lancer notre snake sur LINUX :
+1. Ouvrir le terminal et aller dans le dossier du snake  
+2. Compiler avec la commande : `make`  
+====================================  
+Pour Nettoyer le répertoire : `make clean`  
+====================================  
 
-Comment lancer notre snake sur LINUX :
-1- Ouvrir le terminal et aller dans le dossier du snake
-2- Compiler avec la commande : make
-====================================
-Pour Nettoyer le répertoire : clean
-====================================
+## LES MODES DE JEU :
+- **Classique** (Disponible en Solo/Multi)  
+- **Pomme Mystère** (Disponible en Solo/Multi)  
+- **Mur Aléatoire** (Disponible en Solo/Multi)  
 
-LES MODES DE JEU :
+## OPTIONS DE PERSONNALISATIONS RGB :
+- Corps du serpent 1  
+- Corps du serpent 2  
+- Tête du serpent 1  
+- Tête du serpent 2  
+- Mur  
+- Plateau  
+- Pomme  
 
-- Classique     (Disponible en Solo/Multi)
-- Pomme Mystère (Disponible en Solo/Multi)
-- Mur Aléatoire (Disponible en Solo/Multi)
+## PLUSIEURS MAP et Vitesse :
+- Petite, moyenne, grande  
+- Lent, moyen, rapide  
 
-OPTIONS DE PERSONNALISATIONS RGB :
-- Corp du serpent 1
-- Corp du serpent 2
-- Tête du serpent 1
-- Tête du serpent 2
-- Mur
-- Plateau
-- Pomme
+## TOUCHES :
+**Joueur 1** : Z(haut), Q(droite), S(bas), D(gauche)  
+**Joueur 2** : O(haut), K(droite), L(bas), M(gauche)  
 
-PLUSIEURS MAP et Vitesse :
-- Petite, moyenne, grande
-- Lent, moyen, rapide
+## PAR :
+- Tolga YILDIZ
+- Arthur ANDRAUD
 
-TOUCHES :
-Joueurs 1 : Z(haut) Q(droite) S(bas) D(gauche)
-Joueurs 2 : O(haut) K(droite) L(bas) M(gauche)
